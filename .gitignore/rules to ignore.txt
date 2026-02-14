@@ -1,0 +1,10 @@
+all the dummy files should be added into .gitignore file
+
+where all those start from / (slash)
+
+example 
+Debug/
+Release/
+Build/
+*.o
+*.elf
